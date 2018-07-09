@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522217866 source:c:\users\user\desktop\копеі\алгор. та стр. данныъ\звіти\kp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
